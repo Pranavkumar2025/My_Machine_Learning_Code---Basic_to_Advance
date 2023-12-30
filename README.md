@@ -49,10 +49,6 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 ---
 
-You can start with this article that I wrote in Heartbeat magazine (on Medium platform): 
-### ["Some Essential Hacks and Tricks for Machine Learning with Python"](https://heartbeat.fritz.ai/some-essential-hacks-and-tricks-for-machine-learning-with-python-5478bc6593f2)
-<img src="https://cookieegroup.com/wp-content/uploads/2018/10/2-1.png" width="450" height="300"/>
-
 ## Essential tutorial-type notebooks on Pandas and Numpy
 Jupyter notebooks covering a wide range of functions and operations on the topics of NumPy, Pandans, Seaborn, Matplotlib etc.
 
