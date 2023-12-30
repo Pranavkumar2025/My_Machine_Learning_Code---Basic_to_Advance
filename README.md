@@ -112,7 +112,6 @@ Jupyter notebooks covering a wide range of functions and operations on the topic
 
 * Hierarchical clustering with Dendograms showing how to choose optimal number of clusters ([Here is the Notebook](https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Clustering-Dimensionality-Reduction/Hierarchical_Clustering.ipynb))
 
-<img src="https://www.researchgate.net/profile/Carsten_Walther/publication/273456906/figure/fig3/AS:294866065084419@1447312956501/Example-of-hierarchical-clustering-clusters-are-consecutively-merged-with-the-most.png" width="700" height="400"/>
 
 ---
 
